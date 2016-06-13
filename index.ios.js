@@ -12,6 +12,8 @@ import {
   View
 } from 'react-native';
 
+const Realm = require('realm');
+
 class usToGo extends Component {
   render() {
     return (
